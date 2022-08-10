@@ -41,4 +41,6 @@ Wenn du kreativ mit einem Werk des FurCraft-Projekts arbeitest gehört es quasi 
 Den Minecraft-EULA findet man hier: https://account.mojang.com/documents/minecraft_eula (Link auf Gültigkeit geprüft: 10.08.2022)\
 <br>
 <br>
-Zuletzt aktualisiert: 10.08.2022
+Zuletzt aktualisiert: 10.08.2022\
+<br>
+Diese Richtlinien stammen im Original von https://thejocraft.de/vrl/ und wurden für unsere Zwecke angepasst.\
