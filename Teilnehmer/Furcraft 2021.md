@@ -9,4 +9,5 @@
 
 <br>
 
-*Zulezt aktuallisiert am 10.08.2022*
+*Zulezt aktuallisiert am 10.08.2022*´\
+*Das Furcraft Logo ist durch das Urheberecht gesetzlich geschützt!*
