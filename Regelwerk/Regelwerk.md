@@ -5,8 +5,6 @@
 ### **§1 - Es gilt das Recht der Bundesrepublik Deutschland**
 Auf dem Discord-Server sowie Minecraft-Server gelten die Gesetze der Bundesrepublik Deutschland.
 
-<br>
-<br>
 
 ## **Abschnitt II - Spielbezogen**
 
@@ -19,8 +17,6 @@ Das beschädigen von Bauwerken anderer Teilnehmer:innen (Griefing) ist verboten.
 ### **§4 - PVP & Roleplay**
 PVP oder RP sind nur dann mit anderen Teilnehmer:innenn durchzuführen wenn diese dem zustimmen.
 
-<br>
-<br>
 
 ## **Abschnitt III - Projektbezogen**
 
