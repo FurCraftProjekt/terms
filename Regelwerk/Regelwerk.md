@@ -54,5 +54,41 @@ Das Projekt endet sobald, wenn
 
 Nach dem Projekt wird es die Welt zum Download geben, diesen dürfen die Teilnehmer an Ihre Twitch-Abonnenten bzw. YouTube-Kanalmitglieder eine Woche vor der Veröffentlichung des Downloadlinks weitergeben. Ein selbständiges hosten des Downloads ist nach nur nach Absprache erlaubt.
 
+<br>
+
+*Letzte Änderung: 20.08.2022*
+
+<br/>
+<hr/>
+<br/>
+
+# <u>Teilnahmevorausetzungen für das <img src="/images/logo_breit.png" alt="FurCraft" width="auto" height="50">-Projekt</u>
+
+## Midestalter
+Um für alle Beteiligten Stress, Probleme und strenge rechtliche Vorschschriften zu ersparen gilt ein Mindestalter von 18 Jahren bei Start des Projekts.
+
+## Sprache
+Es sind Sprechsichrere Deutschkenntnisse erforderlich um die Kommunikation zu vereinfachen.
+
+## Stream/Video-Aufbau
+Bei Streamern sollte ein gewisser "professioneller" Aufbau zu sehen sein.\
+Dies beduetet, dass folgendes vorhanden ist:
+- Stream-Overlays/-Alerts
+
+Webvideo-Produzenten müssen auch einen gewissen "professionellen" Aufbau des Videos haben.\
+Also, das ersichtlich ist, dass dort Arbeit reingesteckt wurde.
+Hinweise dafür können sein:
+- Intro
+- Video wurde geschnitten
+- Outro
+Diese Liste ist nicht abschließend.
+
+## Furry Content Creators only
+Alle Teilnehmer (mit Ausnahme der Gäste) müssen Streamer und/oder Webvideoproduzenten sein und dem Furry Fandom angehören.
+
+## Minecraft Version
+Du besitzt eine Kopie von "Minecraft" (Bedrock Engine)
+
+<br>
 
 *Letzte Änderung: 20.08.2022*
