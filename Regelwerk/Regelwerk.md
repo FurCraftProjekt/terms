@@ -64,16 +64,18 @@ Nach dem Projekt wird es die Welt zum Download geben, diesen dürfen die Teilneh
 
 # <u>Teilnahmevorausetzungen für das <img src="/images/logo_breit.png" alt="FurCraft" width="auto" height="50">-Projekt</u>
 
-## Midestalter
+## Mindestalter
 Um für alle Beteiligten Stress, Probleme und strenge rechtliche Vorschschriften zu ersparen gilt ein Mindestalter von 18 Jahren bei Start des Projekts.
 
 ## Sprache
 Es sind Sprechsichrere Deutschkenntnisse erforderlich um die Kommunikation zu vereinfachen.
 
-## Stream/Video-Aufbau
+## Stream- & Video-Aufbau
 Bei Streamern sollte ein gewisser "professioneller" Aufbau zu sehen sein.\
 Dies beduetet, dass folgendes vorhanden ist:
 - Stream-Overlays/-Alerts
+
+<br>
 
 Webvideo-Produzenten müssen auch einen gewissen "professionellen" Aufbau des Videos haben.\
 Also, das ersichtlich ist, dass dort Arbeit reingesteckt wurde.
