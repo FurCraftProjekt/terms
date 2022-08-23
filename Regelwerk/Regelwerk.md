@@ -39,6 +39,10 @@ Das erwähnen des Projekttitels "FurCraft" ist im Stream/Videotitel erforderlich
 
 *Ein Chatbot Befehl zur Verlinkung zum Projekt-Discord ist als Extra wünschenswert. Bei Webvideos in der Videobeschreibung.*
 
+### **§6a - Wizebot**
+Teilnehmer welche auf Twitch streamen sind verpflichtet einen [Wizebot]()-Account zu erstellen, damit dessen Community-Feature + Live-Ankündigungen auf Discord und Twotter funktionieren.\
+Die eigentliche Nutzung des Bots ist nicht notwendig.
+
 ### **§7 Gäste**
 1. Jeder Teilnehmer:innen, darf einen Gast minehmen, welcher von der Stream und Aufzeichnungspflicht befreit ist.
 2. Sollte der Gast eines/einer Teilnehmers/Teilnehmerin gegen die Richtlinien verstoßen, so fallen die Konsequenzen auch auf den/die Teilnehmer:in zurück.
@@ -56,7 +60,7 @@ Nach dem Projekt wird es die Welt zum Download geben, diesen dürfen die Teilneh
 
 <br>
 
-*Letzte Änderung: 20.08.2022*
+*Letzte Änderung: 23.08.2022*
 
 <br/>
 <hr/>
