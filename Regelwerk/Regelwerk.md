@@ -1,4 +1,4 @@
-# <u>Regelwerk für Teilnehmer:innen des <img src="/images/logo_breit.png" alt="FurCraft" width="auto" height="50">-Projekts</u>
+# <u>Regelwerk für Teilnehmer:innen des <img src="https://furcraft.de/images/logo.png" alt="FurCraft" width="auto" height="50" style="margin-bottom: -20px;">-Projekts</u>
 
 ## **Abschnitt I - Allgemeines**
 
@@ -66,7 +66,7 @@ Nach dem Projekt wird es die Welt zum Download geben, diesen dürfen die Teilneh
 <hr/>
 <br/>
 
-# <u>Teilnahmevorausetzungen für das <img src="/images/logo_breit.png" alt="FurCraft" width="auto" height="50">-Projekt</u>
+# <u>Teilnahmevorausetzungen für das <img src="https://furcraft.de/images/logo.png" alt="FurCraft" width="auto" height="50" style="margin-bottom: -20px;">-Projekt</u>
 
 ## Mindestalter
 Um für alle Beteiligten Stress, Probleme und strenge rechtliche Vorschschriften zu ersparen gilt ein Mindestalter von 18 Jahren bei Start des Projekts.
