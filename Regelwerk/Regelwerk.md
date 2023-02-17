@@ -66,7 +66,7 @@ Nach dem Projekt wird es die Welt zum Download geben, diesen dürfen die Teilneh
 <hr/>
 <br/>
 
-# <u>Teilnahmevorausetzungen für das <a rel='me' href="https://furcraft.de" target="furcraft"><img src="https://furcraft.de/images/logo.png" alt="FurCraft" width="auto" height="50" style="margin-bottom: -20px;">-Projekt</u></a>
+# <u>Teilnahmevorausetzungen für das <a rel='me' href="https://furcraft.de" target="furcraft"><img src="https://furcraft.de/images/logo.png" alt="FurCraft" width="auto" height="50" style="margin-bottom: -20px;"></a>-Projekt</u>
 
 ## Mindestalter
 Um für alle Beteiligten Stress, Probleme und strenge rechtliche Vorschschriften zu ersparen gilt ein Mindestalter von 18 Jahren bei Start des Projekts.
