@@ -40,7 +40,7 @@ Das erwähnen des Projekttitels "FurCraft" ist im Stream/Videotitel erforderlich
 *Ein Chatbot Befehl zur Verlinkung zum Projekt-Discord ist als Extra wünschenswert. Bei Webvideos in der Videobeschreibung.*
 
 ### **§6a - Wizebot**
-Teilnehmer welche auf Twitch streamen sind verpflichtet einen [Wizebot]()-Account zu erstellen, damit dessen Community-Feature + Live-Ankündigungen auf Discord und Twotter funktionieren.\
+Teilnehmer welche auf Twitch streamen sind verpflichtet einen [Wizebot](https://spikey.biz/wizebot)-Account zu erstellen, damit dessen Community-Feature + Live-Ankündigungen auf Discord und Twotter funktionieren.\
 Die eigentliche Nutzung des Bots ist nicht notwendig.
 
 ### **§7 Gäste**
